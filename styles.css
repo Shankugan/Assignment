@@ -1,0 +1,50 @@
+.container {;
+  align-content:flex-start;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  height:400px ;
+  width:400px;
+  }
+.one{
+  background-color: #E91E63;
+  font-size:24px ;
+  height:50px;
+  width: 50px;
+  }
+.two{
+  background-color:#2196F3 ;
+  font-size: 24px;
+  height: 50px;
+  width: 50px;
+ }
+.three{
+  background-color: #FFDC41;
+  font-size:24px ;
+  height:50px;
+  width: 50px;
+  }
+.four{
+  background-color:#FF0005 ;
+  font-size:24px;
+  height: 50px;
+  width: 50px;
+  }
+.five{
+  background-color: #33FFD2;
+  font-size:24px;
+  height: 50px;
+  width: 50px;
+  }
+.six{
+  background-color:#C3FF6D ;
+  font-size:24px;
+  height: 50px;
+  width: 50px;
+  }
+.seven{
+  background-color: #FF00C7;
+  font-size: 24px;
+  height: 50px;
+  width: 50px;
+  }
